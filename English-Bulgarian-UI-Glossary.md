@@ -1,4 +1,5 @@
-# English - Bulgarian UI Glossary 
+﻿# English - Bulgarian UI Glossary 
+## Desktop
 
 | # English | # Bulgarian |
 | --------- | ----------- |
@@ -6,5 +7,16 @@
 |           |             |
 |           |             |
 |           |             |
+
+
+## Mobile
+
+| # English | # Bulgarian |
+| --------- | ----------- |
+| Home      | Начало      |
+|           |             |
+|           |             |
+|           |             |
+
 
 
