@@ -1,7 +1,7 @@
 ﻿# English - Bulgarian UI Glossary 
 ## Desktop
 
-| ### English | ### Bulgarian |
+| English | ### Bulgarian |
 | --------- | ----------- |
 | Home      | Начало      |
 |           |             |
